@@ -7,7 +7,7 @@
 🔍 **Junior Data Scientist**
 
 🚀 **Proyectos Destacados:**
-- **Modelos de Machine Learning:** [ReportesML](https://github.com/TeoEchavarria/ReportesML) - Implementación de algoritmos de ML, data necesaria para estos modelos y análisis detallado.
+- **Modelos de Machine Learning:** [Machine-Learning-Models-Collection](https://github.com/TeoEchavarria/Machine-Learning-Models-Collection) - Implementación de algoritmos de ML, data necesaria para estos modelos y análisis detallado.
 - **Criptografía y Seguridad:** [CrimeCriptoAttack](https://github.com/TeoEchavarria/CrimeCriptoAttack) - Ataque simulado a protocolos de seguridad como TLS, explorando vulnerabilidades y métodos de defensa.
 - **Matemáticas Aplicadas:** [Science](https://github.com/TeoEchavarria/Science) - Investigación en Matemáticas Modulares, Probabilidad y aspectos de criptografía.
 
