@@ -1,18 +1,25 @@
-# Hola, soy Teo Echavarría 👋
+# Hello, I'm Teo Echavarría 👋
 
-🏫 **Estudiante en la Universidad Nacional de Colombia, Sede Medellín**
-
-🌟 **Apasionado por el Machine Learning y el Análisis de Datos**
-
+🏫 **Student at the National University of Colombia, Medellín**  
+🌟 **Passionate about Machine Learning and Data Analysis**  
 🔍 **Junior Data Scientist**
 
-🚀 **Proyectos Destacados:**
-- **Modelos de Machine Learning:** [Machine-Learning-Models-Collection](https://github.com/TeoEchavarria/Machine-Learning-Models-Collection) - Implementación de algoritmos de ML, data necesaria para estos modelos y análisis detallado.
-- **Criptografía y Seguridad:** [CrimeCriptoAttack](https://github.com/TeoEchavarria/CrimeCriptoAttack) - Ataque simulado a protocolos de seguridad como TLS, explorando vulnerabilidades y métodos de defensa.
-- **Matemáticas Aplicadas:** [Science](https://github.com/TeoEchavarria/Science) - Investigación en Matemáticas Modulares, Probabilidad y aspectos de criptografía.
+🚀 **Highlighted Projects**:
 
-También puedes visitar mi [página web personal](https://teoechavarria.github.io/) donde encontrarás no solo el código, sino también una forma interactiva de explorar estos modelos de ML, análisis de datos y matemáticas aplicadas.
+- **[FinanceBot](https://github.com/TeoEchavarria/FinanceBot)**: A Telegram chatbot for recording personal expenses using natural language. Soon, it will also support voice notes for seamless financial tracking. Technologies: NLP, LLMs, SQLite.
 
-🔗 **Conéctemos:**
-- **LinkedIn:** [TeoEchavarría](https://www.linkedin.com/in/teoechavarria/)
-- **Correo Electrónico:** [teoechavarriasierra@gmail.com](mailto:teoechavarriasierra@gmail.com)
+- **[TeoBotProject](https://github.com/TeoEchavarria/TeoBotProject)**: A Telegram chatbot that answers questions about my personal notes in Obsidian. It uses embeddings to find relevant information and supports navigation via the Zettelkasten method.
+
+- **[Portfolio](https://github.com/TeoEchavarria/portfolio)**: An interactive personal website showcasing my projects and achievements, built with a Hugo-like static site generator.
+
+- **Cryptography and Security**: [CrimeCriptoAttack](https://github.com/TeoEchavarria/CrimeCriptoAttack) - Exploration of vulnerabilities in protocols like TLS, simulating attacks and analyzing defense strategies.
+  
+- **[HumanVsAnimalFunction](https://github.com/TeoEchavarria/HumanVsAnimalFunction)**: A creative project using Machine Learning, Azure Functions, and Python to predict outcomes of hypothetical bare-knuckle fights against 15 different animals. Three specialized models assess the probabilities of winning, losing, or an uncertain result.
+
+- **Applied Mathematics**: [Science](https://github.com/TeoEchavarria/Science) - Research focused on Modular Mathematics, Probability, and Cryptography. 
+
+For more details, check out my [personal website](https://teoechavarria.github.io/portfolio/), where you can interactively explore these projects.
+
+🔗 **Let’s Connect**:
+- **LinkedIn**: [TeoEchavarría](https://www.linkedin.com/in/teoechavarria/)
+- **Email**: [teoechavarriasierra@gmail.com](mailto:teoechavarriasierra@gmail.com)
