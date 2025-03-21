@@ -19,7 +19,7 @@
 - **[Science](https://github.com/TeoEchavarria/Science)**: Research in modular math, probability, and cryptography.
 
 ### Contact
-- **Website**: [teoechavarria.github.io/portfolio](https://teoechavarria.github.io/portfolio/)  
+- **Website**: [TeoEchavarria WEB](https://teoechavarria.vercel.app/)
 - **LinkedIn**: [TeoEchavarría](https://www.linkedin.com/in/teoechavarria/)  
 
 
