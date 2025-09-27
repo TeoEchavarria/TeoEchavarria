@@ -11,13 +11,11 @@
 </p>
 
 ### Featured Projects
-- **[FinanceBot](https://github.com/TeoEchavarria/FinanceBot)**: A Telegram bot for expense tracking via NLP (voice note support coming soon).  
-- **[TeoBotProject](https://github.com/TeoEchavarria/TeoBotProject)**: A Telegram bot that retrieves information from personal Obsidian notes using embeddings.  
-- **[Portfolio](https://github.com/TeoEchavarria/the-frontend-blueprint)**: Interactive personal website built with a Hugo-like static site generator.  
-- **[CrimeCriptoAttack](https://github.com/TeoEchavarria/CrimeCriptoAttack)**: Exploration of security vulnerabilities in protocols like TLS.  
-- **[HumanVsAnimalFunction](https://github.com/TeoEchavarria/HumanVsAnimalFunction)**: ML models and Azure Functions to predict outcomes of hypothetical fights against various animals.  
-- **[Science](https://github.com/TeoEchavarria/Science)**: Research in modular math, probability, and cryptography.
+- **[TeoBotProject](https://github.com/TeoEchavarria/TeoBotProject)**: A Telegram bot that retrieves information from personal Obsidian notes using embeddings for fast, context-aware answers.
+- **[Portfolio](https://github.com/TeoEchavarria/the-frontend-blueprint)**: An interactive personal website built with **Lovable**, featuring a minimalist design with an integrated blog. It’s the space where I’m currently focusing my efforts and adding new content.
+- **[Health Tech](https://github.com/TeoEchavarria/personal-dashboard)**: A new initiative exploring medicine, longevity, and advanced health technologies—bringing together analytics, AI, and personal well-being.
+
 
 ### Contact
-- **Website**: [TeoEchavarria WEB](https://teoechavarria.lovable.app/)
+- **Website**: [TeoEchavarria WEB](https://www.echavarrias.com/)
 - **LinkedIn**: [TeoEchavarría](https://www.linkedin.com/in/teoechavarria/)  
